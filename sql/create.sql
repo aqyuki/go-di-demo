@@ -1,0 +1,1 @@
+CREATE TABLE task (title VARCHAR(50) Not Null note VARCHAR(100));
